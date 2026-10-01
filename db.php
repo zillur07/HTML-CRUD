@@ -18,3 +18,5 @@ echo "Connected successfully";
     phone VARCHAR(20),
     address VARCHAR(255)
 ); -->
+
+<!-- Main folder name : student-crud -->
